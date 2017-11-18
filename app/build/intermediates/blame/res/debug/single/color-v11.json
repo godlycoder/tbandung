@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/alfarih/.android/build-cache/e5023888270c0fcd8b55098ae76d221910e3a3d6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/alfarih/.android/build-cache/e5023888270c0fcd8b55098ae76d221910e3a3d6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/alfarih/.android/build-cache/5292bc2de5976fc2c8c95cf316afc12e574c3a97/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/alfarih/.android/build-cache/5292bc2de5976fc2c8c95cf316afc12e574c3a97/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

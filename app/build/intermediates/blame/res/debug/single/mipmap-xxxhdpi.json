@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/profile_pict.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/src/main/res/mipmap-xxxhdpi/profile_pict.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/notif.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/src/main/res/mipmap-xxxhdpi/notif.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/location.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/location.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/near.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/near.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/activity.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/activity.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_standup.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_standup.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/rating.png",
+        "source": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/rating.png"
+    }
+]

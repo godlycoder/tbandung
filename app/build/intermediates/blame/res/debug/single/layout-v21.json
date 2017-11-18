@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/alfarih/.android/build-cache/e5023888270c0fcd8b55098ae76d221910e3a3d6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/alfarih/.android/build-cache/840f6f12818789790c2a086c937d0c667666b46f/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/alfarih/.android/build-cache/e5023888270c0fcd8b55098ae76d221910e3a3d6/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/alfarih/.android/build-cache/e5023888270c0fcd8b55098ae76d221910e3a3d6/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/alfarih/.android/build-cache/e5023888270c0fcd8b55098ae76d221910e3a3d6/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

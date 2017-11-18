@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/alfarih/.android/build-cache/1b6116896fe52b685c604b68d4437c69c66b1f9e/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/alfarih/.android/build-cache/1b6116896fe52b685c604b68d4437c69c66b1f9e/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/alfarih/.android/build-cache/1b6116896fe52b685c604b68d4437c69c66b1f9e/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/alfarih/AndroidStudioProjects/KateangApp/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/alfarih/.android/build-cache/1b6116896fe52b685c604b68d4437c69c66b1f9e/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    }
+]

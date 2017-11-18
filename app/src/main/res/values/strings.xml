@@ -1,0 +1,16 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">KateangApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map">Map</string>
+    <string name="rekomendasi">Rekomendasi Lain</string>
+    <string name="terpopuler">Terpopuler</string>
+    <string name="penjadwalan">Penjadwalan</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="umum">Umum</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
